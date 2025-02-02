@@ -1,12 +1,23 @@
-# SmartInternz Assignments Repository
+# 🚀 SmartInternz MERN Stack Development Program - Weekly Assignments (2025) 🚀
 
-Welcome to the repository for assignments and tasks provided by **SmartInternz**. This repository serves as a central location where all the assignments, tasks, and project work will be uploaded and maintained.
+## 📋 Overview
 
-All assignments and tasks in this repository will be submitted by **Biprajeet Sen** (Reg Number: **22BCY10174**). 
+Welcome to the **official repository** for the **Fullstack (MERN) with MongoDB Developer certification**! This repo contains all the weekly assignments and tasks completed as part of the **VIT Bhopal Certification Program 2025**.
 
-Please explore the repository to access the respective tasks and assignments. Each task will be organized and documented for clarity and ease of understanding.
+## 📝 Program Details
 
----
+**Participant:** **Biprajeet Sen** 
+**Registration Number:** 22BCY10174
+**Program:** **Fullstack (MERN) with MongoDB Developer certification**  
+**Institution:** **VIT Bhopal**  
+**Specialization:** **Cyber Security & Digital Forensics**
 
-*For any inquiries or issues regarding the assignments, please feel free to contact the repository owner.*
+## 📂 Repository Contents
 
+- 📚 Weekly **assignment solutions** and **tasks**
+- 💻 Relevant **Code snippets** and **MERN stack related files** 
+
+## 📬 Contact
+
+Got questions or need help? Feel free to reach out!  
+**Email:** [biprajeetsen2022@vitbhopal.ac.in](mailto:biprajeetsen2022@vitbhopal.ac.in)
