@@ -1,4 +1,4 @@
-# 🚀 SmartInternz MERN Stack Development Program - Weekly Assignments (2025) 🚀
+# 🚀 SmartBridge Fullstack (MERN) with MongoDB Developer certification - Weekly Assignments (2025) 🚀
 
 ## 📋 Overview
 
