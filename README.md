@@ -6,9 +6,9 @@ Welcome to the **official repository** for the **Fullstack (MERN) with MongoDB D
 
 ## 📝 Program Details
 
-**Participant:** **Biprajeet Sen** 
-**Registration Number:** 22BCY10174
-**Program:** **Fullstack (MERN) with MongoDB Developer certification**  
+**Participant:** **Biprajeet Sen**  
+**Institution:** **VIT Bhopal**  
+**Specialization:** **Cyber Security & Digital Forensics**
 **Institution:** **VIT Bhopal**  
 **Specialization:** **Cyber Security & Digital Forensics**
 
