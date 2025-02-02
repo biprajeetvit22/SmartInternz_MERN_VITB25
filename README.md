@@ -1,7 +1,12 @@
 # SmartInternz Assignments Repository
 
-This repository contains all the assignments and tasks given by SmartInternz. All assignments and tasks will be uploaded and submitted by **Biprajeet Sen** - **22BCY10174**.
+Welcome to the repository for assignments and tasks provided by **SmartInternz**. This repository serves as a central location where all the assignments, tasks, and project work will be uploaded and maintained.
 
-Feel free to explore the repository to find the respective tasks and assignments.
+All assignments and tasks in this repository will be submitted by **Biprajeet Sen** (Reg Number: **22BCY10174**). 
 
+Please explore the repository to access the respective tasks and assignments. Each task will be organized and documented for clarity and ease of understanding.
+
+---
+
+*For any inquiries or issues regarding the assignments, please feel free to contact the repository owner.*
 
