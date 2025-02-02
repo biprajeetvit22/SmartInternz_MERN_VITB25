@@ -6,12 +6,12 @@ Welcome to the **official repository** for the **Fullstack (MERN) with MongoDB D
 
 ## 📝 Program Details
 
-**Participant:** **Biprajeet Sen**
-**Reg No:** **22BCY10174**
-**Institution:** **VIT Bhopal**  
-**Specialization:** **Cyber Security & Digital Forensics**
-**Institution:** **VIT Bhopal**  
-**Specialization:** **Cyber Security & Digital Forensics**
+- **Participant:** Biprajeet Sen  
+- **Registration Number:** 22BCY10174  
+- **Institution:** VIT Bhopal  
+- **Specialization:** Cyber Security & Digital Forensics
+- **Program:** Smartbridge : Fullstack (MERN) with MongoDB Developer certification
+- **Program:** VIT Bhopal Certification Program 2025
 
 ## 📂 Repository Contents
 
