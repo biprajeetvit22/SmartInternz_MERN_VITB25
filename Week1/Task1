@@ -1,1 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxury Cars Hub</title>
+    <style>
+        body {
+            text-align: center;
+            line-height: 1.8;
+            background-color: #1e272e;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #34495e;
+            color: white;
+            padding: 20px 0;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        p:nth-of-type(1) {
+            font-family: sans-serif;
+        }
+        p:nth-of-type(2) {
+            font-family: serif;
+        }
+        p.caption {
+            font-family: monospace;
+            font-style: italic;
+            color: #dcdde1;
+        }
+        img {
+            display: block;
+            margin: 20px auto;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+        }
+        button {
+            padding: 12px 24px;
+            border: none;
+            background-color: #2980b9;
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        button:hover {
+            background-color: #1f618d;
+        }
+        table {
+            margin: 30px auto;
+            border-collapse: collapse;
+            width: 70%;
+            background: #2f3640;
+            box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+            color: #ffffff;
+        }
+        table, th, td {
+            border: 1px solid #dcdde1;
+            padding: 12px;
+            font-size: 18px;
+        }
+        th {
+            background-color: #2980b9;
+            color: white;
+        }
+        form {
+            background: #2f3640;
+            padding: 20px;
+            max-width: 500px;
+            margin: 20px auto;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+            color: #ffffff;
+        }
+        input {
+            width: 90%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #dcdde1;
+            border-radius: 5px;
+            background: #1e272e;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <header>Luxury Cars Hub</header>
+    <h1>Explore the World of Premium Cars</h1>
+    <p>Luxury cars offer the perfect blend of performance, comfort, and cutting-edge technology.</p>
+    <p>From high-performance sports cars to ultra-luxurious sedans, discover the best models available.</p>
+    
+    <img src="https://images.unsplash.com/photo-1709085582795-4aca78fd76a2?q=80&w=2066&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Luxury Car">
+    <p class="caption">A premium luxury car in its full glory</p>
+    
+    <button>Discover More</button>
+    
+    <h2>Top Luxury Car Models</h2>
+    <table>
+        <tr>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>Type</th>
+        </tr>
+        <tr>
+            <td>Rolls-Royce</td>
+            <td>Phantom</td>
+            <td>Luxury Sedan</td>
+        </tr>
+        <tr>
+            <td>Lamborghini</td>
+            <td>Aventador</td>
+            <td>Sports</td>
+        </tr>
+    </table>
+    
+    <h2>Luxury Car Inquiry Form</h2>
+    <form>
+        <label for="car-brand">Preferred Car Brand:</label>
+        <input type="text" id="car-brand" name="car-brand" required><br>
+        <label for="car-model">Preferred Car Model:</label>
+        <input type="text" id="car-model" name="car-model" required><br>
+        <button type="submit">Submit Inquiry</button>
+    </form>
+</body>
+</html>
 
