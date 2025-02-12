@@ -19,5 +19,5 @@ Welcome to the **official repository** for the **Fullstack (MERN) with MongoDB D
 
 ## 📬 Contact
 
-Got questions or need help? Feel free to reach out!  
+Got questions or any queries? Feel free to reach out!  
 **Email:** [biprajeetsen2022@vitbhopal.ac.in](mailto:biprajeetsen2022@vitbhopal.ac.in)
