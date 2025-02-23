@@ -24,7 +24,7 @@ const App = () => {
       </section>
       <section>
         <h2 className="text-xl font-bold mb-4">Task 3: UserCard</h2>
-        <UserCard name="Amritangshu Dey" email="biprajeetsen2022@vitbhopal.ac.in" />
+        <UserCard name="Biprajeet Sen" email="biprajeetsen2022@vitbhopal.ac.in" />
       </section>
       <section>
         <h2 className="text-xl font-bold mb-4">Task 4: CustomButton</h2>
