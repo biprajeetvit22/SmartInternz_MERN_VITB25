@@ -51,7 +51,7 @@ It allows users to register complaints, track their status, and manage them effi
 
 ## 📚 Assignments
 
-This section contains all the **weekly assignment submissions** completed during the certification program.  
+This repository contains all the **weekly assignment submissions** completed during the certification program.  
 Each assignment focuses on different concepts and practical implementations of the **MERN stack**.
 
 - Week 1: HTML & CSS 
