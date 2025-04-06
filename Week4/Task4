@@ -1,6 +1,0 @@
-// 4. Welcome Route
-// Submitted by: Biprajeet Sen - 22BCY10174
-
-app.get("/welcome", (req, res) => {
-  res.json({ message: "Welcome to Express!" });
-});
