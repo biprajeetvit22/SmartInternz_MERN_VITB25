@@ -41,10 +41,10 @@ It allows users to register complaints, track their status, and manage them effi
 
 | Name             | Registration Number | Email ID                              |
 | ---------------- | -------------------- | ------------------------------------- |
-| Biprajeet Sen (Team Lead )  | 22BCY10174            | biprajeetsen2022@vitbhopal.ac.in      |
-| Amritangshu Dey  | 22BCY10208            | amritangshudey2022@vitbhopal.ac.in    |
-| Saptarshi Das    | 22BCY10286            | saptarshidas2022@vitbhopal.ac.in      |
-| Manas Maheshwari | 22BCE10492            | manasmaheshwari2022@vitbhopal.ac.in   |
+| Biprajeet Sen (Team Lead )  | 22BCY10174            | [biprajeetsen2022@vitbhopal.ac.in](mailto:biprajeetsen2022@vitbhopal.ac.in)     |
+| Amritangshu Dey  | 22BCY10208            | [amritangshudey2022@vitbhopal.ac.in](mailto:amritangshudey2022@vitbhopal.ac.in)    |
+| Saptarshi Das    | 22BCY10286            | [saptarshidas2022@vitbhopal.ac.in](mailto:saptarshidas2022@vitbhopal.ac.in)      |
+| Manas Maheshwari | 22BCE10492            | [manasmaheshwari2022@vitbhopal.ac.in](mailto:manasmaheshwari2022@vitbhopal.ac.in)   |
 
 
 ---
